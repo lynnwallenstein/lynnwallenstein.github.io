@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>lynnwallenstein.github.io</title>
- <link href="lynnwallenstein.github.io/atom.xml" rel="self"/>
- <link href="lynnwallenstein.github.io/"/>
- <updated>2015-11-17T08:03:52-08:00</updated>
- <id>lynnwallenstein.github.io</id>
+ <link href="lynn.io/atom.xml" rel="self"/>
+ <link href="lynn.io/"/>
+ <updated>2015-11-17T08:10:54-08:00</updated>
+ <id>lynn.io</id>
  <author>
    <name>Lynn Wallenstein</name>
    <email>lynn@lynn.io</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Hello 2015</title>
-   <link href="lynnwallenstein.github.io/2015/01/06/welcome-2015/"/>
+   <link href="lynn.io/2015/01/06/welcome-2015/"/>
    <updated>2015-01-06T04:43:02-08:00</updated>
-   <id>lynnwallenstein.github.io/2015/01/06/welcome-2015</id>
+   <id>lynn.io/2015/01/06/welcome-2015</id>
    <content type="html">&lt;p&gt;Another year, another commitment to blogging more. I made it to February last year, maybe this year I will make it to March?&lt;/p&gt;
 
 &lt;p&gt;I am going to try not to be so hard on myself about posting as it just leads me to feel of it more like a chore then fun.&lt;/p&gt;
@@ -27,9 +27,9 @@
  
  <entry>
    <title>Pure CSS Dynamic Sized Centered Modals</title>
-   <link href="lynnwallenstein.github.io/2014/02/22/modalin/"/>
+   <link href="lynn.io/2014/02/22/modalin/"/>
    <updated>2014-02-22T13:13:43-08:00</updated>
-   <id>lynnwallenstein.github.io/2014/02/22/modalin</id>
+   <id>lynn.io/2014/02/22/modalin</id>
    <content type="html">&lt;p&gt;I recently came across this article &lt;a href=&quot;http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/&quot;&gt;&amp;ldquo;Vertical align anything with just 3 lines of CSS&amp;rdquo;&lt;/a&gt;, describing a technique for vertical alignment using the CSS property &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS/transform&quot;&gt;&lt;code&gt;transform&lt;/code&gt;&lt;/a&gt; (&lt;a href=&quot;http://caniuse.com/#feat=transforms2d&quot;&gt;caniuse&lt;/a&gt;):&lt;/p&gt;
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nc&quot;&gt;.element&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;k&quot;&gt;position&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;relative&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
@@ -127,9 +127,9 @@
  
  <entry>
    <title>Keeping Your SCSS Vars and Adobe Palletes in Sync with Tinge</title>
-   <link href="lynnwallenstein.github.io/2014/01/19/colors-matter/"/>
+   <link href="lynn.io/2014/01/19/colors-matter/"/>
    <updated>2014-01-19T15:35:08-08:00</updated>
-   <id>lynnwallenstein.github.io/2014/01/19/colors-matter</id>
+   <id>lynn.io/2014/01/19/colors-matter</id>
    <content type="html">&lt;p&gt;I am a fan of designing in code. I like the ability to really &amp;ldquo;kick the tires&amp;rdquo; of a design and feel how it will work from an interaction level.&lt;/p&gt;
 
 &lt;p&gt;Sometimes this isn&amp;rsquo;t possible.&lt;/p&gt;
@@ -283,9 +283,9 @@
  
  <entry>
    <title>Auto Commenting of Partials</title>
-   <link href="lynnwallenstein.github.io/2014/01/11/commenting-partials/"/>
+   <link href="lynn.io/2014/01/11/commenting-partials/"/>
    <updated>2014-01-11T20:16:07-08:00</updated>
-   <id>lynnwallenstein.github.io/2014/01/11/commenting-partials</id>
+   <id>lynn.io/2014/01/11/commenting-partials</id>
    <content type="html">&lt;p&gt;When working in a rails app, sometimes it is really easy to loose yourself in a complex path of nested partials. Not knowing where code is coming from or where the proper place is to edit the source can be extremly frustrating and after my consistent bitching, my friend &lt;a href=&quot;http://twitter.com/comaddox&quot;&gt;Chris Maddox&lt;/a&gt; whipped up this &lt;a href=&quot;http://rubygems.org/gems/partial_logging&quot;&gt;really helpful gem&lt;/a&gt; that adds inline comments in your HTML showing you when partials start and end.&lt;/p&gt;
 
 &lt;p&gt;Install the gem as normal: &lt;/p&gt;
@@ -306,9 +306,9 @@
  
  <entry>
    <title>jQuery GitHub Badge</title>
-   <link href="lynnwallenstein.github.io/2013/12/27/github-badge/"/>
+   <link href="lynn.io/2013/12/27/github-badge/"/>
    <updated>2013-12-27T18:07:44-08:00</updated>
-   <id>lynnwallenstein.github.io/2013/12/27/github-badge</id>
+   <id>lynn.io/2013/12/27/github-badge</id>
    <content type="html">&lt;p&gt;Just wanted to quickly post that I FINALLY got my jQuery GitHub badge updated and finally set up its own project page on GitHub. Demo, code and documentation can be found &lt;a href=&quot;http://lynn.io/jQuery-GitHub-Badge/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://lynn.io/jQuery-GitHub-Badge/&quot;&gt;&lt;img src=&quot;/img/post-assets/2013-12-28/jQuery_GitHub_Badge.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -319,9 +319,9 @@
  
  <entry>
    <title>Nested Layouts with Less Divs</title>
-   <link href="lynnwallenstein.github.io/2013/12/22/nested-layouts-with-less-divs/"/>
+   <link href="lynn.io/2013/12/22/nested-layouts-with-less-divs/"/>
    <updated>2013-12-22T12:20:20-08:00</updated>
-   <id>lynnwallenstein.github.io/2013/12/22/nested-layouts-with-less-divs</id>
+   <id>lynn.io/2013/12/22/nested-layouts-with-less-divs</id>
    <content type="html">&lt;p&gt;First to start out, this method relies heavily on the use of the CSS &lt;a href=&quot;http://caniuse.com/calc&quot;&gt;Calc&lt;/a&gt; as a unit value. This is fairly well supported on most modern browsers, but if you need to support old versions of IE (pre 9), this probably won&amp;rsquo;t work for you.&lt;/p&gt;
 
 &lt;p&gt;Ok now that we got that out of the way&amp;hellip;&lt;/p&gt;
@@ -441,9 +441,9 @@
  
  <entry>
    <title>Looking Back on 2013</title>
-   <link href="lynnwallenstein.github.io/2013/12/13/year-in-review/"/>
+   <link href="lynn.io/2013/12/13/year-in-review/"/>
    <updated>2013-12-13T06:40:06-08:00</updated>
-   <id>lynnwallenstein.github.io/2013/12/13/year-in-review</id>
+   <id>lynn.io/2013/12/13/year-in-review</id>
    <content type="html">&lt;p&gt;2013 was a pretty amazing year. It started out with me celebrating one year at &lt;a href=&quot;http://livingsocial.com/&quot;&gt;LivingSocial&lt;/a&gt; in  January. Working at LivingSocial was an amazing experience for me both personally and professionally. I met people there that I have learned so much from and some I have been fortunate enough to call my closest friends.&lt;/p&gt;
 
 &lt;p&gt;January was also an emotional whirlwind of happiness for others and sadness for me. A couple of my friends left the DC area to go move into new adventures in San Francisco and Berlin. It sort of broke up the band a little, but we used the powers of the internets to stay connected.&lt;/p&gt;
@@ -470,9 +470,9 @@
  
  <entry>
    <title>And We're Back...</title>
-   <link href="lynnwallenstein.github.io/2013/09/28/most-wonderful-time-of-the-year/"/>
+   <link href="lynn.io/2013/09/28/most-wonderful-time-of-the-year/"/>
    <updated>2013-09-28T07:40:06-07:00</updated>
-   <id>lynnwallenstein.github.io/2013/09/28/most-wonderful-time-of-the-year</id>
+   <id>lynn.io/2013/09/28/most-wonderful-time-of-the-year</id>
    <content type="html">&lt;p&gt;So, this is my yearly refresh of my website and the promise that I will blog more. I really do have good intentions, I just never feel qualified to write about
 anything.&lt;/p&gt;
 

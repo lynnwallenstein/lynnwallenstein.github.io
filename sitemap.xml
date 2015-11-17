@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>lynnwallenstein.github.io/</loc>
-    <lastmod>2015-11-17T08:03:52-08:00</lastmod>
+    <loc>lynn.io/</loc>
+    <lastmod>2015-11-17T08:10:54-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
     <url>
-      <loc>lynnwallenstein.github.io/2015/01/06/welcome-2015/</loc>
+      <loc>lynn.io/2015/01/06/welcome-2015/</loc>
       
         <lastmod>2015-01-06T04:43:02-08:00</lastmod>
       
@@ -21,7 +21,7 @@
     </url>
   
     <url>
-      <loc>lynnwallenstein.github.io/2014/02/22/modalin/</loc>
+      <loc>lynn.io/2014/02/22/modalin/</loc>
       
         <lastmod>2014-02-22T13:13:43-08:00</lastmod>
       
@@ -34,7 +34,7 @@
     </url>
   
     <url>
-      <loc>lynnwallenstein.github.io/2014/01/19/colors-matter/</loc>
+      <loc>lynn.io/2014/01/19/colors-matter/</loc>
       
         <lastmod>2014-01-19T15:35:08-08:00</lastmod>
       
@@ -47,7 +47,7 @@
     </url>
   
     <url>
-      <loc>lynnwallenstein.github.io/2014/01/11/commenting-partials/</loc>
+      <loc>lynn.io/2014/01/11/commenting-partials/</loc>
       
         <lastmod>2014-01-11T20:16:07-08:00</lastmod>
       
@@ -60,7 +60,7 @@
     </url>
   
     <url>
-      <loc>lynnwallenstein.github.io/2013/12/27/github-badge/</loc>
+      <loc>lynn.io/2013/12/27/github-badge/</loc>
       
         <lastmod>2013-12-27T18:07:44-08:00</lastmod>
       
@@ -73,7 +73,7 @@
     </url>
   
     <url>
-      <loc>lynnwallenstein.github.io/2013/12/22/nested-layouts-with-less-divs/</loc>
+      <loc>lynn.io/2013/12/22/nested-layouts-with-less-divs/</loc>
       
         <lastmod>2013-12-22T12:20:20-08:00</lastmod>
       
@@ -86,7 +86,7 @@
     </url>
   
     <url>
-      <loc>lynnwallenstein.github.io/2013/12/13/year-in-review/</loc>
+      <loc>lynn.io/2013/12/13/year-in-review/</loc>
       
         <lastmod>2013-12-13T06:40:06-08:00</lastmod>
       
@@ -99,7 +99,7 @@
     </url>
   
     <url>
-      <loc>lynnwallenstein.github.io/2013/09/28/most-wonderful-time-of-the-year/</loc>
+      <loc>lynn.io/2013/09/28/most-wonderful-time-of-the-year/</loc>
       
         <lastmod>2013-09-28T07:40:06-07:00</lastmod>
       
@@ -113,9 +113,9 @@
   
   
   <url>
-    <loc>lynnwallenstein.github.io/404/</loc>
+    <loc>lynn.io/404/</loc>
     
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -126,7 +126,7 @@
   </url>
   
   <url>
-    <loc>lynnwallenstein.github.io/about/</loc>
+    <loc>lynn.io/about/</loc>
     
       <lastmod>2013-09-28T07:40:06-07:00</lastmod>
     
@@ -139,22 +139,9 @@
   </url>
   
   <url>
-    <loc>lynnwallenstein.github.io/atom.xml</loc>
+    <loc>lynn.io/atom.xml</loc>
     
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>lynnwallenstein.github.io/</loc>
-    
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -165,22 +152,9 @@
   </url>
   
   <url>
-    <loc>lynnwallenstein.github.io/sitemap.xml</loc>
+    <loc>lynn.io/</loc>
     
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>lynnwallenstein.github.io/tag/blogging/</loc>
-    
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -191,22 +165,9 @@
   </url>
   
   <url>
-    <loc>lynnwallenstein.github.io/tag/update/</loc>
+    <loc>lynn.io/sitemap.xml</loc>
     
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>lynnwallenstein.github.io/tag/css/</loc>
-    
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -217,22 +178,9 @@
   </url>
   
   <url>
-    <loc>lynnwallenstein.github.io/tag/webdev/</loc>
+    <loc>lynn.io/tag/blogging/</loc>
     
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>lynnwallenstein.github.io/tag/opensource/</loc>
-    
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -243,22 +191,9 @@
   </url>
   
   <url>
-    <loc>lynnwallenstein.github.io/tag/rubyonrails/</loc>
+    <loc>lynn.io/tag/update/</loc>
     
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>lynnwallenstein.github.io/tag/color/</loc>
-    
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -269,22 +204,9 @@
   </url>
   
   <url>
-    <loc>lynnwallenstein.github.io/tag/adobe/</loc>
+    <loc>lynn.io/tag/css/</loc>
     
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>lynnwallenstein.github.io/tag/bruce/</loc>
-    
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -295,22 +217,9 @@
   </url>
   
   <url>
-    <loc>lynnwallenstein.github.io/tag/gem/</loc>
+    <loc>lynn.io/tag/webdev/</loc>
     
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>lynnwallenstein.github.io/tag/modal/</loc>
-    
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -321,9 +230,9 @@
   </url>
   
   <url>
-    <loc>lynnwallenstein.github.io/tag/year%20in%20review/</loc>
+    <loc>lynn.io/tag/opensource/</loc>
     
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -334,9 +243,100 @@
   </url>
   
   <url>
-    <loc>lynnwallenstein.github.io/page2/</loc>
+    <loc>lynn.io/tag/rubyonrails/</loc>
     
-      <lastmod>2015-11-17T08:03:52-08:00</lastmod>
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>lynn.io/tag/color/</loc>
+    
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>lynn.io/tag/adobe/</loc>
+    
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>lynn.io/tag/bruce/</loc>
+    
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>lynn.io/tag/gem/</loc>
+    
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>lynn.io/tag/modal/</loc>
+    
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>lynn.io/tag/year%20in%20review/</loc>
+    
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>lynn.io/page2/</loc>
+    
+      <lastmod>2015-11-17T08:10:54-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
