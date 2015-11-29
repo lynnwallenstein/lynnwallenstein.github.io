@@ -2331,11 +2331,14 @@ html:hover [class^="ss-"] {
 #page-navigation ol a {
   font-family: "atrament-web", sans-serif; }
 
+body.christmas #page-header h1 {
+  font-family: "Mountains of Christmas", cursive; }
+
 code,
 pre {
   font-family: "source-code-pro"; }
 
-#page-header h1, .post-list h1 {
+#page-header h1, body.new-years #page-header h1, body.valentines-day #page-header h1, body.st-patricks-day #page-header h1, body.easter #page-header h1, body.fourth-of-july #page-header h1, body.halloween #page-header h1, body.thanksgiving #page-header h1, .post-list h1 {
   font-family: "bariol_serif_regular", sans-serif; }
 
 #page-navigation:after, .post-list .post-meta:after, #page-navigation:before, .post-list .post-meta:before {
@@ -3122,7 +3125,6 @@ body {
       #page-header svg {
         height: 105px !important;
         left: 20px;
-        width: 75px;
         width: auto !important; } }
   #page-header h1 {
     color: #fff;
@@ -3136,13 +3138,14 @@ body {
         margin-left: 240px; } }
     @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
       #page-header h1 {
-        line-height: 125px;
         font-size: 60px;
+        line-height: 125px;
         margin-left: 120px; } }
   body.new-years {
     border-top-color: #3e454f; }
     body.new-years #page-header h1 {
-      color: #3e454f; }
+      color: #3e454f;
+      text-shadow: #dcdfe3 2px 2px 0; }
     body.new-years #page-header .holiday-fuck {
       height: 200px;
       width: 125px; }
@@ -3151,7 +3154,8 @@ body {
   body.valentines-day {
     border-top-color: #3e454f; }
     body.valentines-day #page-header h1 {
-      color: #3e454f; }
+      color: #3e454f;
+      text-shadow: #dcdfe3 2px 2px 0; }
     body.valentines-day #page-header .holiday-fuck {
       height: 200px;
       width: 125px; }
@@ -3160,7 +3164,8 @@ body {
   body.st-patricks-day {
     border-top-color: #3e454f; }
     body.st-patricks-day #page-header h1 {
-      color: #3e454f; }
+      color: #3e454f;
+      text-shadow: #dcdfe3 2px 2px 0; }
     body.st-patricks-day #page-header .holiday-fuck {
       height: 200px;
       width: 125px; }
@@ -3169,7 +3174,8 @@ body {
   body.easter {
     border-top-color: #3e454f; }
     body.easter #page-header h1 {
-      color: #3e454f; }
+      color: #3e454f;
+      text-shadow: #dcdfe3 2px 2px 0; }
     body.easter #page-header .holiday-fuck {
       height: 200px;
       width: 125px; }
@@ -3178,7 +3184,8 @@ body {
   body.fourth-of-july {
     border-top-color: #3e454f; }
     body.fourth-of-july #page-header h1 {
-      color: #3e454f; }
+      color: #3e454f;
+      text-shadow: #dcdfe3 2px 2px 0; }
     body.fourth-of-july #page-header .holiday-fuck {
       height: 200px;
       width: 125px; }
@@ -3187,7 +3194,8 @@ body {
   body.halloween {
     border-top-color: #393d3d; }
     body.halloween #page-header h1 {
-      color: #393d3d; }
+      color: #393d3d;
+      text-shadow: #d3d5d5 2px 2px 0; }
     body.halloween #page-header .holiday-fuck {
       height: 200px;
       width: 125px; }
@@ -3196,7 +3204,8 @@ body {
   body.thanksgiving {
     border-top-color: #3e454f; }
     body.thanksgiving #page-header h1 {
-      color: #3e454f; }
+      color: #3e454f;
+      text-shadow: #dcdfe3 2px 2px 0; }
     body.thanksgiving #page-header .holiday-fuck {
       height: 200px;
       width: 125px; }
@@ -3205,7 +3214,8 @@ body {
   body.christmas {
     border-top-color: #941F1F; }
     body.christmas #page-header h1 {
-      color: #941F1F; }
+      color: #941F1F;
+      text-shadow: #fbeaea 2px 2px 0; }
     body.christmas #page-header .holiday-fuck {
       height: 225px;
       width: 200px; }
