@@ -3101,11 +3101,13 @@ body {
       #page-header #title {
         bottom: 0;
         top: 0; } }
+  #page-header .holiday-fuck,
   #page-header svg {
     display: inline-block;
     margin-right: 20px;
     width: auto; }
     @media all and (max-width: 1280px) {
+      #page-header .holiday-fuck,
       #page-header svg {
         height: 190px;
         position: absolute;
@@ -3116,6 +3118,7 @@ body {
                 transform: translateY(-50%);
         width: auto !important; } }
     @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+      #page-header .holiday-fuck,
       #page-header svg {
         height: 105px !important;
         left: 20px;
@@ -3140,7 +3143,7 @@ body {
     border-top-color: #3e454f; }
     body.new-years #page-header h1 {
       color: #3e454f; }
-    body.new-years #page-header svg {
+    body.new-years #page-header .holiday-fuck {
       height: 200px;
       width: 125px; }
   body.new-years #page-header {
@@ -3149,7 +3152,7 @@ body {
     border-top-color: #3e454f; }
     body.valentines-day #page-header h1 {
       color: #3e454f; }
-    body.valentines-day #page-header svg {
+    body.valentines-day #page-header .holiday-fuck {
       height: 200px;
       width: 125px; }
   body.valentines-day #page-header {
@@ -3158,7 +3161,7 @@ body {
     border-top-color: #3e454f; }
     body.st-patricks-day #page-header h1 {
       color: #3e454f; }
-    body.st-patricks-day #page-header svg {
+    body.st-patricks-day #page-header .holiday-fuck {
       height: 200px;
       width: 125px; }
   body.st-patricks-day #page-header {
@@ -3167,7 +3170,7 @@ body {
     border-top-color: #3e454f; }
     body.easter #page-header h1 {
       color: #3e454f; }
-    body.easter #page-header svg {
+    body.easter #page-header .holiday-fuck {
       height: 200px;
       width: 125px; }
   body.easter #page-header {
@@ -3176,7 +3179,7 @@ body {
     border-top-color: #3e454f; }
     body.fourth-of-july #page-header h1 {
       color: #3e454f; }
-    body.fourth-of-july #page-header svg {
+    body.fourth-of-july #page-header .holiday-fuck {
       height: 200px;
       width: 125px; }
   body.fourth-of-july #page-header {
@@ -3185,7 +3188,7 @@ body {
     border-top-color: #393d3d; }
     body.halloween #page-header h1 {
       color: #393d3d; }
-    body.halloween #page-header svg {
+    body.halloween #page-header .holiday-fuck {
       height: 200px;
       width: 125px; }
   body.halloween #page-header {
@@ -3194,7 +3197,7 @@ body {
     border-top-color: #3e454f; }
     body.thanksgiving #page-header h1 {
       color: #3e454f; }
-    body.thanksgiving #page-header svg {
+    body.thanksgiving #page-header .holiday-fuck {
       height: 200px;
       width: 125px; }
   body.thanksgiving #page-header {
@@ -3203,7 +3206,7 @@ body {
     border-top-color: #941F1F; }
     body.christmas #page-header h1 {
       color: #941F1F; }
-    body.christmas #page-header svg {
+    body.christmas #page-header .holiday-fuck {
       height: 225px;
       width: 200px; }
   body.christmas #page-header {
