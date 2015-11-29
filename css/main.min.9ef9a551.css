@@ -2761,6 +2761,11 @@ pre code {
       -ms-transform: scale(5);
           transform: scale(5); }
 
+@media all and (max-width: 1280px) {
+  #fuck {
+    -webkit-animation: none;
+            animation: none; } }
+
 #fuck .legs {
   fill: #FBB03B; }
 
@@ -3074,81 +3079,134 @@ body {
   @media all and (max-width: 1280px) {
     #page-header {
       background-position: 0 0;
-      background-size: 125px auto;
+      background-size: auto 250px;
       float: none;
       height: 250px;
       min-height: 0;
       width: 100%; } }
   @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     #page-header {
-      background-size: 65px auto;
+      background-size: auto 125px;
       height: 125px; } }
   #page-header #title {
     position: absolute;
     bottom: 200px;
-    left: 50px; }
+    left: 0;
+    text-align: center; }
     @media all and (max-width: 1280px) {
       #page-header #title {
-        bottom: 20px; } }
+        bottom: 0;
+        top: 0; } }
     @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
       #page-header #title {
-        height: 125px;
         bottom: 0;
-        left: 0; } }
+        top: 0; } }
   #page-header svg {
     display: inline-block;
-    float: left;
-    height: 200px;
     margin-right: 20px;
-    width: 125px; }
+    width: auto; }
+    @media all and (max-width: 1280px) {
+      #page-header svg {
+        height: 190px;
+        position: absolute;
+        top: 50%;
+        left: 20px;
+        -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+                transform: translateY(-50%);
+        width: auto !important; } }
     @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
       #page-header svg {
-        height: 100px;
-        margin-left: 15px;
-        width: 75px; } }
+        height: 105px !important;
+        left: 20px;
+        width: 75px;
+        width: auto !important; } }
   #page-header h1 {
     color: #fff;
     display: inline-block;
-    float: left;
     font-size: 80px;
     font-weight: 500;
-    line-height: 200px;
     margin: 0; }
+    @media all and (max-width: 1280px) {
+      #page-header h1 {
+        line-height: 250px;
+        margin-left: 240px; } }
     @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
       #page-header h1 {
+        line-height: 125px;
         font-size: 60px;
-        line-height: 100px; } }
+        margin-left: 120px; } }
   body.new-years {
     border-top-color: #3e454f; }
-  body.holiday-new-years #page-header {
+    body.new-years #page-header h1 {
+      color: #3e454f; }
+    body.new-years #page-header svg {
+      height: 200px;
+      width: 125px; }
+  body.new-years #page-header {
     background-image: url("/img/color-blocks-new-years.jpg"); }
   body.valentines-day {
     border-top-color: #3e454f; }
-  body.holiday-valentines-day #page-header {
+    body.valentines-day #page-header h1 {
+      color: #3e454f; }
+    body.valentines-day #page-header svg {
+      height: 200px;
+      width: 125px; }
+  body.valentines-day #page-header {
     background-image: url("/img/color-blocks-valentines-day.jpg"); }
   body.st-patricks-day {
     border-top-color: #3e454f; }
-  body.holiday-st-patricks-day #page-header {
+    body.st-patricks-day #page-header h1 {
+      color: #3e454f; }
+    body.st-patricks-day #page-header svg {
+      height: 200px;
+      width: 125px; }
+  body.st-patricks-day #page-header {
     background-image: url("/img/color-blocks-st-patricks-day.jpg"); }
   body.easter {
     border-top-color: #3e454f; }
-  body.holiday-easter #page-header {
+    body.easter #page-header h1 {
+      color: #3e454f; }
+    body.easter #page-header svg {
+      height: 200px;
+      width: 125px; }
+  body.easter #page-header {
     background-image: url("/img/color-blocks-easter.jpg"); }
   body.fourth-of-july {
     border-top-color: #3e454f; }
-  body.holiday-fourth-of-july #page-header {
+    body.fourth-of-july #page-header h1 {
+      color: #3e454f; }
+    body.fourth-of-july #page-header svg {
+      height: 200px;
+      width: 125px; }
+  body.fourth-of-july #page-header {
     background-image: url("/img/color-blocks-fourth-of-july.jpg"); }
   body.halloween {
     border-top-color: #393d3d; }
-  body.holiday-halloween #page-header {
+    body.halloween #page-header h1 {
+      color: #393d3d; }
+    body.halloween #page-header svg {
+      height: 200px;
+      width: 125px; }
+  body.halloween #page-header {
     background-image: url("/img/color-blocks-halloween.jpg"); }
   body.thanksgiving {
     border-top-color: #3e454f; }
-  body.holiday-thanksgiving #page-header {
+    body.thanksgiving #page-header h1 {
+      color: #3e454f; }
+    body.thanksgiving #page-header svg {
+      height: 200px;
+      width: 125px; }
+  body.thanksgiving #page-header {
     background-image: url("/img/color-blocks-thanksgiving.jpg"); }
   body.christmas {
-    border-top-color: #9a052c; }
-  body.holiday-christmas #page-header {
+    border-top-color: #941F1F; }
+    body.christmas #page-header h1 {
+      color: #941F1F; }
+    body.christmas #page-header svg {
+      height: 225px;
+      width: 200px; }
+  body.christmas #page-header {
     background-image: url("/img/color-blocks-christmas.jpg"); }
   #page-header .social-links {
     position: absolute;
