@@ -3031,7 +3031,7 @@ body {
   max-height: 100%;
   min-height: 100%;
   text-align: left; }
-  @media all and (max-width: 360px) {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     body {
       border-top: none; } }
 
@@ -3053,7 +3053,7 @@ body {
       max-width: none;
       min-height: 0;
       width: 100%; } }
-  @media all and (max-width: 360px) {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     #page-main {
       padding-left: 20px;
       padding-right: 20px; } }
@@ -3079,7 +3079,7 @@ body {
       height: 250px;
       min-height: 0;
       width: 100%; } }
-  @media all and (max-width: 360px) {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     #page-header {
       background-size: 65px auto;
       height: 125px; } }
@@ -3090,7 +3090,7 @@ body {
     @media all and (max-width: 1280px) {
       #page-header #title {
         bottom: 20px; } }
-    @media all and (max-width: 360px) {
+    @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
       #page-header #title {
         height: 125px;
         bottom: 0;
@@ -3101,7 +3101,7 @@ body {
     height: 200px;
     margin-right: 20px;
     width: 125px; }
-    @media all and (max-width: 360px) {
+    @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
       #page-header svg {
         height: 100px;
         margin-left: 15px;
@@ -3109,14 +3109,14 @@ body {
   #page-header h1 {
     color: #fff;
     display: inline-block;
-    font-size: 80px;
     float: left;
+    font-size: 80px;
     font-weight: 500;
     line-height: 200px;
     margin: 0; }
-    @media all and (max-width: 360px) {
+    @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
       #page-header h1 {
-        font-size: 50px;
+        font-size: 60px;
         line-height: 100px; } }
   body.new-years {
     border-top-color: #3e454f; }
@@ -3157,7 +3157,7 @@ body {
     @media all and (max-width: 1280px) {
       #page-header .social-links {
         bottom: 13px; } }
-    @media all and (max-width: 360px) {
+    @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
       #page-header .social-links {
         right: 0;
         bottom: 0; } }
@@ -3167,7 +3167,7 @@ body {
       margin-right: 10px; }
       #page-header .social-links li:last-child {
         margin-right: 0; }
-      @media all and (max-width: 360px) {
+      @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
         #page-header .social-links li {
           margin-right: 2px; } }
     #page-header .social-links a {
@@ -3181,7 +3181,7 @@ body {
       @media all and (max-width: 1280px) {
         #page-header .social-links a {
           font-size: 45px; } }
-      @media all and (max-width: 360px) {
+      @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
         #page-header .social-links a {
           font-size: 30px; } }
 
@@ -3214,6 +3214,18 @@ body {
       text-decoration: none;
       text-transform: uppercase; }
 
+.pagination {
+  margin-bottom: 50px; }
+  .pagination a {
+    text-decoration: none; }
+  .pagination .disabled {
+    cursor: disallowed;
+    color: #a29f99; }
+  .pagination .older {
+    float: left; }
+  .pagination .newer {
+    float: right; }
+
 @media all and (max-width: 700px) {
   .page {
     margin: 0 15px; } }
@@ -3224,7 +3236,7 @@ body {
   max-height: 300px;
   max-width: 700px;
   margin: 20px; }
-  @media all and (max-width: 360px) {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     .page img {
       float: none;
       max-height: 500px;
@@ -3250,7 +3262,7 @@ body {
   line-height: 1.1;
   margin: 0 0 5px 0;
   padding: 0; }
-  @media all and (max-width: 360px) {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     .post-list h1 {
       font-size: 1.2rem;
       line-height: 1; } }
@@ -3268,7 +3280,7 @@ body {
   margin-top: 10px; }
   .post-list .post-meta a {
     color: #bdc3c7; }
-  @media all and (max-width: 360px) {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     .post-list .post-meta {
       font-size: 10px; } }
 
@@ -3291,7 +3303,7 @@ body {
 
 .post-header h1 {
   line-height: 1.2; }
-  @media all and (max-width: 360px) {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     .post-header h1 {
       font-size: 1.2rem;
       line-height: 1; } }
@@ -3299,19 +3311,19 @@ body {
 .post-footer {
   font-size: 13px;
   margin-top: 50px; }
-  @media all and (max-width: 360px) {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     .post-footer {
       font-size: 11px; } }
   .post-footer dt {
     float: left;
     width: 150px; }
-    @media all and (max-width: 360px) {
+    @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
       .post-footer dt {
         float: none;
         width: 100%; } }
   .post-footer dd {
     width: calc(100% - 200px); }
-    @media all and (max-width: 360px) {
+    @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
       .post-footer dd {
         margin-left: 15px;
         width: 100%; } }
@@ -3327,7 +3339,7 @@ body {
   margin-right: 5px; }
   .tag-list li:last-child {
     margin-right: 0; }
-  @media all and (max-width: 360px) {
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
     .tag-list li {
       margin-right: 2px; } }
   .tag-list li a {
@@ -3337,6 +3349,13 @@ body {
   .tag-list li .ss-icon {
     float: left;
     margin-right: 3px; }
+
+.related-posts {
+  border-top: 1px solid #d3d1ce;
+  margin-top: 50px;
+  padding-top: 50px; }
+  .related-posts h2 {
+    font-size: 20px; }
 
 @media print {
   *,
