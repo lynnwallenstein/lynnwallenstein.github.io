@@ -1,3 +1,3 @@
 # lynnwallenstein.github.io
 
-Lynn.io Web Site
+[Lynn.io](http://lynn.io) Web Site
