@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Lynn Wallenstein -- Creator -- https://mastodon.lol/@lynnwallenstein
+    Lynn Wallenstein -- Creator -- https://hachyderm.io/@lynnwallenstein
 
 # TECHNOLOGY COLOPHON
 
